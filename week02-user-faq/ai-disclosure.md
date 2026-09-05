@@ -1,0 +1,3 @@
+# AI Disclosure
+
+I used AI to give me prompts and help format this document. I asked it to help me plan, draft wording for the FAQ entries and support notes, and look up the current Windows 11 documentation so the steps were not written from memory. I verified everything by opening each path on my own Windows 11 VM before writing it down. Every entry has a screenshot to back it up, and where the AI got the page wrong I corrected it and recorded the difference in validated-steps.md.

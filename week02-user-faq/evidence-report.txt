@@ -1,0 +1,17 @@
+﻿=== CVNP1606-W02 Evidence Report ===
+Generated : 2026-09-05 17:21:15
+Host      : DESKTOP-INHPK9G
+
+[SYSTEM]
+  Hostname : DESKTOP-INHPK9G
+  OS       : Windows 10 Enterprise Evaluation
+  Version  : 10.0.26200
+
+[DISPLAY SCALE]
+  AppliedDPI : 96 (100% = 96 dpi)
+
+[REQUIRED FILES]
+  README.md : FOUND (4068 bytes)
+  support-note-examples.md : FOUND (4058 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week02-user-faq/.
