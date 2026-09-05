@@ -1,0 +1,33 @@
+﻿=== CVNP1606-W01 Evidence Report ===
+Generated : 2026-08-30 21:02:37
+Host      : DESKTOP-INHPK9G
+
+[SYSTEM]
+  Hostname   : DESKTOP-INHPK9G
+  OS         : Windows 10 Enterprise Evaluation
+  Version    : 10.0.26200
+  Firmware   : Uefi
+
+[LOCAL ACCOUNTS]
+  Administrator            Enabled: False
+  DefaultAccount           Enabled: False
+  Guest                    Enabled: False
+  Test                     Enabled: True
+  WDAGUtilityAccount       Enabled: False
+  wg1615ch                 Enabled: True
+
+[ADMINISTRATORS GROUP]
+  DESKTOP-INHPK9G\Administrator (Local)
+  DESKTOP-INHPK9G\wg1615ch (Local)
+  S-1-12-1-1029665759-1293327162-3077926585-1710723604 (AzureAD)
+  S-1-12-1-1077392928-1163393540-1150592132-596031056 (AzureAD)
+  S-1-12-1-297519891-1098661704-2997053593-2755974469 (AzureAD)
+
+[TPM]
+  TpmPresent   : True
+  TpmEnabled   : True
+
+[REQUIRED FILES]
+  inventory.txt : FOUND (482 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week01-build-sheet/.
