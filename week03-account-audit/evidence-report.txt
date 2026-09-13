@@ -1,0 +1,34 @@
+﻿=== CVNP1606-W03 Evidence Report ===
+Generated : 2026-09-12 23:36:17
+Host      : DESKTOP-INHPK9G
+
+[LOCAL ACCOUNTS]
+  Administrator                Enabled: False
+  DefaultAccount               Enabled: False
+  Guest                        Enabled: False
+  seasonal-staff               Enabled: True
+  Test                         Enabled: True
+  WDAGUtilityAccount           Enabled: False
+
+[SEASONAL-STAFF ACCOUNT]
+  seasonal-staff : FOUND | Enabled: True
+  In Administrators group : False  (should be False)
+
+[ADMINISTRATORS GROUP]
+  DESKTOP-INHPK9G\Administrator (Local)
+  O365\wg1615ch (AzureAD)
+  S-1-12-1-1077392928-1163393540-1150592132-596031056 (AzureAD)
+  S-1-12-1-297519891-1098661704-2997053593-2755974469 (AzureAD)
+
+[USERS GROUP (standard accounts)]
+  DESKTOP-INHPK9G\seasonal-staff (Local)
+  DESKTOP-INHPK9G\Test (Local)
+  NT AUTHORITY\Authenticated Users (Unknown)
+  NT AUTHORITY\INTERACTIVE (Unknown)
+
+[REQUIRED FILES]
+  local-users-export.txt : FOUND (2934 bytes)
+  least-privilege-memo.md : FOUND (2821 bytes)
+  README.md : FOUND (11837 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week03-account-audit/.
