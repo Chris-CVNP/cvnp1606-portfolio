@@ -1,0 +1,46 @@
+﻿=== CVNP1606-W04 Evidence Report ===
+Generated : 2026-09-18 22:10:25
+Host      : DESKTOP-INHPK9G
+
+[HR SECURITY GROUPS]
+  HR-Managers : FOUND
+  HR-Staff : FOUND
+  Audit-Readonly : FOUND
+
+[HR-STAFF-TEST ACCOUNT]
+  hr-staff-test : FOUND | Enabled: True
+  In HR-Staff       : True   (should be True)
+  In HR-Managers    : False  (should be False)
+  In Administrators : False     (should be False)
+
+[FOLDER STRUCTURE]
+  C:\HR : EXISTS
+  C:\HR\Payroll : EXISTS
+  C:\HR\Payroll\CurrentYear : EXISTS
+  C:\HR\Payroll\Archive : EXISTS
+
+[SMB SHARE: Payroll]
+  Share path : C:\HR\Payroll
+  BUILTIN\Administrators       Full
+  DESKTOP-INHPK9G\HR-Managers  Full
+  DESKTOP-INHPK9G\HR-Staff     Change
+  DESKTOP-INHPK9G\Audit-Readonly Read
+  Everyone removed : YES
+
+[NTFS ACL: C:\HR\Payroll]
+  DESKTOP-INHPK9G\HR-Managers      FullControl
+  DESKTOP-INHPK9G\HR-Staff         Modify, Synchronize
+  DESKTOP-INHPK9G\Audit-Readonly   ReadAndExecute, Synchronize
+  BUILTIN\Administrators           FullControl
+  NT AUTHORITY\SYSTEM              FullControl
+  BUILTIN\Users                    ReadAndExecute, Synchronize
+  NT AUTHORITY\Authenticated Users Modify, Synchronize
+  NT AUTHORITY\Authenticated Users -536805376
+
+[REQUIRED FILES]
+  acl-before.txt : FOUND (904 bytes)
+  acl-after.txt : FOUND (904 bytes)
+  access-test-results.md : FOUND (4892 bytes)
+  README.md : FOUND (17735 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week04-permissions-matrix/.
