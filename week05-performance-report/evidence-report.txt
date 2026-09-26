@@ -1,0 +1,37 @@
+﻿=== CVNP1606-W05 Evidence Report ===
+Generated : 2026-09-25 19:59:53
+Host      : DESKTOP-INHPK9G
+
+[TOP CPU PROCESSES]
+  explorer                     CPU: 165.2s   WS: 377.5 MB
+  msedgewebview2               CPU: 155.5s   WS: 0 MB
+  sihost                       CPU: 76s   WS: 47.7 MB
+  msedgewebview2               CPU: 73.4s   WS: 125.6 MB
+  msedgewebview2               CPU: 32.5s   WS: 0.7 MB
+  msedgewebview2               CPU: 28.3s   WS: 98.6 MB
+  WindowsTerminal              CPU: 28s   WS: 79.8 MB
+  Widgets                      CPU: 24.7s   WS: 70.7 MB
+  StartMenuExperienceHost      CPU: 23.2s   WS: 151.7 MB
+  SearchHost                   CPU: 16.7s   WS: 114.3 MB
+
+[MEMORY]
+  Total  : 16 GB
+  Used   : 4 GB
+  Free   : 11.9 GB
+
+[DISK]
+  C: Used 34.4 GB | Free 28.5 GB
+
+[STARTUP PROGRAMS (registry run key)]
+  [System] SecurityHealth
+  [System] VMware User Process
+  [User] MicrosoftEdgeAutoLaunch_DCA0CA503C92FBB48C9426480BB1DBEE
+  [User] OneDrive
+
+[REQUIRED FILES]
+  before-metrics.md : FOUND (1352 bytes)
+  after-metrics.md : FOUND (2828 bytes)
+  change-note.md : FOUND (1620 bytes)
+  README.md : FOUND (9188 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week05-performance-report/.
