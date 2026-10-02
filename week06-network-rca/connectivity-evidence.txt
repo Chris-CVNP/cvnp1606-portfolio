@@ -1,0 +1,64 @@
+﻿
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-INHPK9G
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : home.arpa
+   Description . . . . . . . . . . . : Red Hat VirtIO Ethernet Adapter
+   Physical Address. . . . . . . . . : BC-24-11-59-EA-49
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::d578:a590:1a3:8f3%9(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.10.50.102(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Thursday, October 1, 2026 2:28:39 PM
+   Lease Expires . . . . . . . . . . : Friday, October 2, 2026 5:28:42 PM
+   Default Gateway . . . . . . . . . : 10.10.50.1
+   DHCP Server . . . . . . . . . . . : 10.10.50.1
+   DHCPv6 IAID . . . . . . . . . . . : 364651537
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-31-08-A3-A7-00-0C-29-B9-BB-BB
+   DNS Servers . . . . . . . . . . . : 1.2.3.4
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=40ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=39ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=37ms TTL=114
+Reply from 8.8.8.8: bytes=32 time=37ms TTL=114
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 37ms, Maximum = 40ms, Average = 38ms
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  1.2.3.4
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+
+
+ComputerName           : 8.8.8.8
+RemoteAddress          : 8.8.8.8
+RemotePort             : 80
+InterfaceAlias         : Ethernet
+SourceAddress          : 10.10.50.102
+PingSucceeded          : True
+PingReplyDetails (RTT) : 34 ms
+TcpTestSucceeded       : False
+
+
+

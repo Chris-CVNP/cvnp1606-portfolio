@@ -1,0 +1,28 @@
+﻿=== CVNP1606-W06 Evidence Report ===
+Generated : 2026-10-02 18:07:07
+Host      : DESKTOP-INHPK9G
+
+[IP CONFIGURATION]
+  Adapter      : Ethernet
+  IPv4 Address : 10.10.50.102
+  Prefix       : /24
+  Gateway      : 10.10.50.1
+  DHCP Enabled : True
+
+[DNS SERVERS]
+  Ethernet : 10.10.50.1
+
+[CONNECTIVITY TESTS]
+  Ping 127.0.0.1 : REACHABLE
+  Ping 8.8.8.8 : REACHABLE
+
+[NETWORK PROFILES]
+  Ethernet                 Category: Public
+
+[REQUIRED FILES]
+  connectivity-evidence.txt : FOUND (2241 bytes)
+  user-instructions.md : FOUND (4576 bytes)
+  escalation-note.md : FOUND (2708 bytes)
+  README.md : FOUND (13164 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week06-network-rca/.
