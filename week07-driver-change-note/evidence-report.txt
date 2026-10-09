@@ -1,0 +1,190 @@
+﻿=== CVNP1606-W07 Evidence Report ===
+Generated : 2026-10-08 21:48:50
+Host      : DESKTOP-INHPK9G
+
+[PNP DEVICES — NON-OK STATUS]
+  Status: Unknown      Class: System               Name: Motherboard resources
+  Status: Unknown      Class: Battery              Name: Microsoft AC Adapter
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: System               Name: Generic Bus
+  Status: Unknown      Class: SoftwareDevice       Name: MIDI 2.0 Service Tests
+  Status: Unknown      Class: Volume               Name: Volume
+  Status: Unknown      Class: System               Name: PCI-to-PCI Bridge
+  Status: Unknown      Class: Firmware             Name: EFI Firmware From Host
+  Status: Unknown      Class: Mouse                Name: VMware USB Pointing Device
+  Status: Unknown      Class: Monitor              Name: Generic Monitor
+  Status: Unknown      Class: System               Name: PCI Bus
+  Status: Unknown      Class: System               Name: Microsoft Hyper-V Generation Counter
+  Status: Unknown      Class: SecurityDevices      Name: Trusted Platform Module 2.0
+  Status: Unknown      Class: Mouse                Name: HID-compliant mouse
+  Status: Unknown      Class: DiskDrive            Name: VMware Virtual NVMe Disk
+  Status: Unknown      Class: Processor            Name: 12th Gen Intel(R) Core(TM) i9-12900H
+  Status: Unknown      Class: Processor            Name: 12th Gen Intel(R) Core(TM) i9-12900H
+  Status: Unknown      Class: Computer             Name: VMware, Inc. VMware20,1
+  Status: Unknown      Class: Volume               Name: Volume
+  Status: Unknown      Class: System               Name: High precision event timer
+  Status: Unknown      Class: AudioProcessingObject Name: Voice Clarity
+  Status: Unknown      Class: Display              Name: Red Hat QXL controller
+  Status: Unknown      Class: System               Name: System CMOS/real time clock
+  Status: Unknown      Class: HIDClass             Name: USB Input Device
+  Status: Unknown      Class: SoftwareDevice       Name: Service Test Loopback A
+  Status: Unknown      Class: SoftwareDevice       Name: Service Test Loopback B
+  Status: Unknown      Class: HIDClass             Name: USB Input Device
+  Status: Unknown      Class: Keyboard             Name: Standard PS/2 Keyboard
+  Status: Unknown      Class: USB                  Name: Standard USB 3.20 eXtensible Host Controller - 1.20 (Microsoft)
+  Status: Unknown      Class: SoftwareDevice       Name: Windows Hello for Business 1
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: System               Name: PCI Express Root Port
+  Status: Unknown      Class: MEDIA                Name: High Definition Audio Device
+  Status: Unknown      Class: System               Name: Direct memory access controller
+  Status: Unknown      Class: Net                  Name: Intel(R) 82574L Gigabit Network Connection
+  Status: Unknown      Class: USB                  Name: Standard Universal PCI to USB Host Controller
+  Status: Unknown      Class: Monitor              Name: Generic Monitor (QXL0001)
+  Status: Unknown      Class: SoftwareDevice       Name: Microsoft Device Association Root Enumerator
+  Status: Unknown      Class: Monitor              Name: Generic Monitor
+  Status: Unknown      Class: SoftwareDevice       Name: Service Test Ping (Internal)
+  Status: Unknown      Class: USB                  Name: Standard Enhanced PCI to USB Host Controller
+  Status: Unknown      Class: System               Name: High Definition Audio Controller
+  Status: Unknown      Class: System               Name: Microsoft UEFI-Compliant System
+  Status: Unknown      Class: System               Name: VMware VMCI Bus Device
+  Status: Unknown      Class: Volume               Name: Volume
+  Status: Unknown      Class: Volume               Name: Volume
+  Status: Unknown      Class: System               Name: PCI to ISA Bridge
+  Status: Unknown      Class: System               Name: Motherboard resources
+  Status: Unknown      Class: SCSIAdapter          Name: Standard NVM Express Controller
+  Status: Unknown      Class: CDROM                Name: NECVMWar VMware SATA CD01
+  Status: Unknown      Class: System               Name: CPU to PCI Bridge
+  Status: Unknown      Class: HDC                  Name: Intel(R) 82371AB/EB PCI Bus Master IDE Controller
+  Status: Unknown      Class: HDC                  Name: ATA Channel 0
+  Status: Unknown      Class: HDC                  Name: ATA Channel 1
+  Status: Unknown      Class: SoftwareDevice       Name: MIDI 2.0 Virtual Devices
+  Status: Unknown      Class: USB                  Name: USB Root Hub
+  Status: Unknown      Class: SoftwareDevice       Name: MIDI 2.0 Loop Devices
+  Status: Unknown      Class: System               Name: System speaker
+  Status: Unknown      Class: System               Name: EISA programmable interrupt controller
+  Status: Unknown      Class: USB                  Name: USB Root Hub (USB 3.0)
+  Status: Unknown      Class: USB                  Name: USB Root Hub
+  Status: Unknown      Class: USB                  Name: USB Composite Device
+  Status: Unknown      Class: Display              Name: VMware SVGA 3D
+  Status: Unknown      Class: System               Name: System timer
+  Status: Unknown      Class: HDC                  Name: Standard SATA AHCI Controller
+  Status: Unknown      Class: System               Name: PCI-to-PCI Bridge
+  Status: Error        Class: Mouse                Name: VMware Pointing Device
+  Status: Unknown      Class: Mouse                Name: VMware Pointing Device
+  Status: Unknown      Class: System               Name: Generic Bus
+
+[PNP DEVICES — ALL (summary by status)]
+  OK               : 109 device(s)
+  Unknown          : 168 device(s)
+  Error            : 1 device(s)
+
+[RECENTLY MODIFIED DRIVERS (last 30 days)]
+  No drivers modified in last 30 days.
+
+[REQUIRED FILES]
+  hardware-inventory.txt : FOUND (110048 bytes)
+  change-note.md : FOUND (2058 bytes)
+  rollback-plan.md : FOUND (2670 bytes)
+  README.md : FOUND (13885 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week07-driver-change-note/.
