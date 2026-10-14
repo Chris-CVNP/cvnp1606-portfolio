@@ -1,0 +1,28 @@
+﻿=== CVNP1606-W08 Evidence Report ===
+Generated : 2026-10-14 15:50:06
+Host      : DESKTOP-INHPK9G
+
+[SYSTEM LOG — CRITICAL & ERROR (last 7 days)]
+  2026-10-14 13:02:19  ID:   20  Microsoft-Windows-WindowsUpdateClient — Error
+
+[UNEXPECTED SHUTDOWN EVENTS (6008 / 41)]
+  2026-09-21 12:21:42  ID:41  Hypervisor launch failed; Either VMX not present or not enabled in BIOS.
+  2026-09-18 19:33:22  ID:41  Hypervisor launch failed; Either VMX not present or not enabled in BIOS.
+  2026-09-18 19:01:59  ID:41  Hypervisor launch failed; Either VMX not present or not enabled in BIOS.
+  2026-09-14 20:19:22  ID:41  Hypervisor launch failed; Either VMX not present or not enabled in BIOS.
+  2026-09-14 20:16:24  ID:41  Hypervisor launch failed; Either VMX not present or not enabled in BIOS.
+  2026-09-14 17:03:27  ID:41  The system has rebooted without cleanly shutting down first. This error could be
+  2026-09-14 17:03:01  ID:41  Hypervisor launch failed; Either VMX not present or not enabled in BIOS.
+  2026-09-14 17:04:35  ID:6008  The previous system shutdown at 3:40:48 PM on ‎9/‎14/‎2026 was unexpected.
+  2026-09-10 00:00:03  ID:41  Hypervisor launch failed; Either VMX not present or not enabled in BIOS.
+  2026-09-09 23:55:26  ID:41  Hypervisor launch failed; Either VMX not present or not enabled in BIOS.
+
+[LAST BOOT]
+  Last boot : 2026-10-06 04:33:36
+
+[REQUIRED FILES]
+  event-export.txt : FOUND (13676 bytes)
+  event-timeline.md : FOUND (3952 bytes)
+  README.md : FOUND (13974 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week08-rca/.
