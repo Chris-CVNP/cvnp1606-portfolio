@@ -1,0 +1,49 @@
+﻿=== CVNP1606-W09 Evidence Report (Midterm) ===
+Generated : 2026-10-23 22:23:10
+Host      : DESKTOP-INHPK9G
+
+[TICKET A - ACCOUNT STATE]
+  acme-pos-cashier01           Enabled: True  LockedOut: False
+  Administrator                Enabled: False  LockedOut: False
+  DefaultAccount               Enabled: False  LockedOut: False
+  Guest                        Enabled: False  LockedOut: False
+  hr-staff-test                Enabled: True  LockedOut: False
+  seasonal-staff               Enabled: True  LockedOut: False
+  Test                         Enabled: True  LockedOut: False
+  WDAGUtilityAccount           Enabled: False  LockedOut: False
+
+[TICKET B - TOP PROCESSES (CPU)]
+  explorer                     CPU: 518s   WS: 449.3 MB
+  System                       CPU: 454.7s   WS: 0.2 MB
+  dwm                          CPU: 247.7s   WS: 159.3 MB
+  svchost                      CPU: 243.1s   WS: 137.1 MB
+  svchost                      CPU: 176.3s   WS: 29.6 MB
+  MsMpEng                      CPU: 139.5s   WS: 290.1 MB
+  svchost                      CPU: 83.7s   WS: 21.4 MB
+  WindowsTerminal              CPU: 76s   WS: 95.8 MB
+
+[TICKET C - PNP DEVICE STATUS]
+  Status: Error        Class: Mouse                Name: VMware Pointing Device  ProblemCode: 19
+
+[TICKET D - NETWORK STATE]
+  VMware Network Adapter VMnet8 : 192.168.17.1/24  GW: 
+  VMware Network Adapter VMnet1 : 192.168.131.1/24  GW: 
+  Ethernet : 10.10.50.102/24  GW: 10.10.50.253
+  Ping 127.0.0.1 : REACHABLE
+  Ping 8.8.8.8 : UNREACHABLE
+
+[SECURITY LOG - LOCKOUT EVENTS (4625 / 4740, cashier account)]
+  2026-10-23 20:39:16  ID:4625
+  2026-10-23 20:39:16  ID:4625
+  2026-10-23 20:39:16  ID:4740
+  2026-10-23 20:39:16  ID:4625
+  2026-10-23 20:39:16  ID:4625
+  2026-10-23 20:39:16  ID:4625
+  2026-10-23 20:39:16  ID:4625
+
+[REQUIRED FILES]
+  ticket-pack.md : FOUND (7042 bytes)
+  change-note.md : FOUND (1695 bytes)
+  README.md : FOUND (6881 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under midterm-service-desk/.
