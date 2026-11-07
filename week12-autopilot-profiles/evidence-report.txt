@@ -1,0 +1,25 @@
+﻿=== CVNP1606-W12 Evidence Report ===
+Generated : 2026-11-07 09:32:42
+Host      : DESKTOP-INHPK9G
+
+[DEVICE JOIN STATE (dsregcmd /status)]
+               AzureAdJoined : YES
+            EnterpriseJoined : NO
+                DomainJoined : NO
+                    DeviceId : 3e02c99c-c0f3-4d34-8854-13fcf912e2c6
+                  TenantName : Minnesota State
+                      MdmUrl : 
+             WorkplaceJoined : NO
+
+[CONFIGURATION PROFILES (registry)]
+  MDM policy keys found: 2 (sample below)
+  knobs
+  Update
+
+[REQUIRED FILES]
+  deployment-decision-tree.md : FOUND (3612 bytes)
+  profile-evidence.md : FOUND (1472 bytes)
+  repeatable-deployment-note.md : FOUND (4627 bytes)
+  README.md : FOUND (7565 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week12-autopilot-profiles/.

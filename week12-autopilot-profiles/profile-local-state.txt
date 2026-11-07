@@ -1,0 +1,17 @@
+﻿Device alias: CVNP1601_SWOS
+Captured: 2026-11-05T18:02:24.5762957-06:00
+Command: Get-ItemProperty 'HKLM:\SOFTWARE\Microsoft\PolicyManager\current\device\Power'
+
+
+DisplayOffTimeoutPluggedIn : 
+
+
+
+Mapped policy path: HKLM:\SOFTWARE\Policies\Microsoft\Power\PowerSettings\[ID REDACTED]
+
+
+ACSettingIndex : 900
+
+
+
+
