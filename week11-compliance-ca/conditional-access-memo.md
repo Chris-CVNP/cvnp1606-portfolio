@@ -1,0 +1,7 @@
+Conditional Access Memo
+
+Section 1: For Emily Park
+If ACME turns this policy On, your work email will no longer open from Outlook on your home PC. The screen you see when you try to access your inbox will show a sign-in failure message. This is NOT because anything is wrong with your account. ACME does not allow emails and files to be accessed from PCs that are NOT fully controlled by ACME's IT staff; they do this by checking all company-managed PCs for required security settings. They have not done that with your personal PC. Therefore, if you contact the help desk, as I would suggest, the technician can assist you in getting back to work on a PC managed by ACME or assist you in enrolling your PC into the Intune system.
+
+Section 2: For Jordan Lee
+Since Emily's device is Entra registered and not Intune enrolled, Intune cannot mark it as Compliant and therefore, the device fails the Require device to be marked as compliant Grant Control. The technician should first verify the Block in the Entra Sign-in logs and then either place Emily onto a Managed Device OR Enroll her device into Intune. DO NOT remove the policy for her. Time-Limited Security Exceptions can only be used IF THERE IS APPROVED BUSINESS NEED FOR THEM. Report-only mode provides logging capabilities to report any users experiencing failures such as Emily's without blocking them; therefore, we can identify ALL users being impacted prior to enforcing the policy and locking out users.

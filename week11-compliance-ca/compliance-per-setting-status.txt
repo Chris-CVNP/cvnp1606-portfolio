@@ -1,0 +1,13 @@
+ACME-Windows-Baseline-Compliance | Per-setting status
+Observed 2026-11-05 in the isolated ATCC Intune lab.
+Source: compliance policy > Monitor > Per-setting status.
+This table is transcribed from the visible report; it is not a native CSV export.
+
+Setting                       Compliant Noncompliant Pending Error Not applicable Other
+BitLocker                     0         1            0       0     0              0
+Microsoft Defender Antimalware 1         0            0       0     0              0
+Minimum OS version            1         0            0       0     0              0
+
+Report scope: this compliance policy, three configured settings.
+No report-generation or evaluation timestamp is shown in this view.
+This is an aggregate by setting, not a device-level drill-down. It identifies the failing control in the policy report. Device-specific local encryption state and root cause are not established by this view.
