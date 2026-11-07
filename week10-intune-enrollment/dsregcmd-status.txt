@@ -1,0 +1,8 @@
+Device alias: CVNP1601_SWOS
+Captured: 2026-11-05T18:02:24.5762957-06:00
+             AzureAdJoined : YES
+              DomainJoined : NO
+                  DeviceId : [ID REDACTED]
+                TenantName : ATCC
+                    MdmUrl : 
+           WorkplaceJoined : NO

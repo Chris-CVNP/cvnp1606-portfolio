@@ -1,0 +1,6 @@
+What I asked the AI to help with
+I used Claude to read the instructor-provided Week 10 evidence set and match each capture to the assignment deliverables, since I wasn't sure that was everything I needed. I also used it to draft join-state-evidence.md, tenant-setup-notes.md, enrollment-diagnosis.md, and pilot-group-design.md, and to check my rewrites for factual and spelling errors.
+What I verified before including it
+I couldn't get my own tenant, so I couldn't verify anything on a live VM or in my own admin portal. Instead, I checked every value in my files against the instructor evidence set: the dsregcmd /status capture, the Intune device list, the group list, the dynamic membership rule, the license page, and the automatic enrollment notice. I checked the portal paths and the dsregcmd field meanings against Microsoft Learn documentation.
+One suggestion I accepted, revised, or rejected
+I accepted the suggestion to change I chose wording to something like The Pilot Group uses in my tenant setup notes, because the instructor set up the tenant and the groups, and saying I chose would have misrepresented the work. I rejected the suggestion to cut my pilot group design down to 300 words because I wanted to keep the reasoning for each wave.
