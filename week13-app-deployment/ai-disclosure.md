@@ -1,0 +1,5 @@
+I used Claude to help me work through the Week 13 assignment tasks. It reviewed my writing for technical errors. It also explained the ZFS snapshot rollback error I hit on Proxmox and the steps to resolve it.
+
+I do not have an Intune tenant, so I checked every Intune detail against the instructor's evidence files instead of a live portal. That meant the app properties export, the Program, Detection rules, and Assignments screenshots, the device install status, and the local state checks. On my own lab system, I verified the snapshot rollback in the Proxmox Snapshots panel and confirmed VM 101 booted to a clean desktop. I also checked the channel and assignment details against the Microsoft Learn sources Claude cited.
+
+After I rewrote the worksheet, Claude suggested several wording changes. I chose to keep my worksheet as I wrote it, because I wanted the final version to stay in my own words.

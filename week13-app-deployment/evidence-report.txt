@@ -1,0 +1,31 @@
+﻿=== CVNP1606-W13 Evidence Report ===
+Generated : 2026-11-19 16:24:21
+Host      : DESKTOP-INHPK9G
+
+[INSTALLED APPLICATIONS (Win32_Product — last 90 days)]
+  Spice Agent 0.10.0-5 (64-bit)            Version: 0.10.5  Installed: 20260826
+  Virtio-win-driver-installer              Version: 0.1.285  Installed: 20260826
+  Red Hat QXL controller                   Version: 0.21.2.0  Installed: 20260826
+  QEMU guest agent                         Version: 110.0.2  Installed: 20260826
+
+[INSTALLED APPS (registry — sample)]
+  Microsoft Edge                           v157.0.4341.60  Date: 20261119
+  Copilot                                  v157.0.4341.60  Date: 20261119
+  Microsoft Edge WebView2 Runtime          v157.0.4341.60  Date: 20261119
+  QEMU guest agent                         v110.0.2  Date: 20260826
+  Virtio-win-driver-installer              v0.1.285  Date: 20260826
+  Spice Agent 0.10.0-5 (64-bit)            v0.10.5  Date: 20260826
+  Red Hat QXL controller                   v0.21.2.0  Date: 20260826
+  Git                                      v2.55.0.5  Date: 20260825
+  Microsoft Visual C++ 2022 X86 Additional Runtime - 14.40.33816 v14.40.33816  Date: 20260201
+  Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.40.33816 v14.40.33816  Date: 20260201
+
+[INTUNE IME LOG]
+  IME log not found — Intune Management Extension may not be installed.
+
+[REQUIRED FILES]
+  app-deployment-worksheet.md : FOUND (2398 bytes)
+  change-control-note.md : FOUND (2782 bytes)
+  README.md : FOUND (11333 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week13-app-deployment/.
