@@ -1,0 +1,23 @@
+﻿=== CVNP1606-W15 Evidence Report ===
+Generated : 2026-11-22 14:52:30
+Host      : DESKTOP-INHPK9G
+
+[WINDOWS UPDATE POLICY (registry)]
+  No Windows Update GPO policy registry path found.
+
+[RECENT WINDOWS UPDATES (last 30 days)]
+  KB5132061        2026-11-22  Security Update
+  KB5127690        2026-11-22  Update
+  KB5132688        2026-11-19  Security Update
+
+[WINDOWS UPDATE SERVICE]
+  wuauserv Status  : Stopped
+  wuauserv StartType: Manual
+
+[REQUIRED FILES]
+  patch-strategy-memo.md : FOUND (3048 bytes)
+  remote-actions-checklist.md : FOUND (3941 bytes)
+  rollout-health-summary.md : FOUND (1759 bytes)
+  README.md : FOUND (9853 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week15-update-management/.
