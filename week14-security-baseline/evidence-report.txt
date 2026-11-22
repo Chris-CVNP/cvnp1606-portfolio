@@ -1,0 +1,29 @@
+﻿=== CVNP1606-W14 Evidence Report ===
+Generated : 2026-11-22 13:41:55
+Host      : DESKTOP-INHPK9G
+
+[DEFENDER STATUS]
+  AntivirusEnabled          : True
+  RealTimeProtectionEnabled : True
+  AMRunningMode             : Normal
+  AntivirusSignatureAge     : 0 day(s)
+  NISSignatureAge           : 0 day(s)
+  QuickScanAge              : 0 day(s)
+
+[FIREWALL PROFILES]
+  Domain       Enabled: True  DefaultInbound: NotConfigured
+  Private      Enabled: True  DefaultInbound: NotConfigured
+  Public       Enabled: True  DefaultInbound: NotConfigured
+
+[BITLOCKER]
+  C: : Protection=On  Encryption=100%  Method=XtsAes128
+
+[REQUIRED FILES]
+  defender-status.txt : FOUND (5258 bytes)
+  firewall-status.txt : FOUND (5276 bytes)
+  baseline-variance-note.md : FOUND (1965 bytes)
+  bitlocker-sop.md : FOUND (3130 bytes)
+  redaction-checklist.md : FOUND (611 bytes)
+  README.md : FOUND (8187 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week14-security-baseline/.
