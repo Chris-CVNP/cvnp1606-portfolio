@@ -1,0 +1,120 @@
+=== CVNP1606-W16 Evidence Report (Capstone) ===
+Generated : 2026-11-22 15:48:31
+Host      : DESKTOP-INHPK9G
+
+[HEALTH-REPORT.PS1]
+  health-report.ps1 : FOUND
+  Running health-report.ps1 output below:
+  ------------------------------------------------------------
+  === OS VERSION ===
+  
+  
+  WindowsProductName : Windows 10 Enterprise Evaluation
+  WindowsVersion     : 2009
+  OsArchitecture     : 64-bit
+  
+  
+  
+  
+  === DEFENDER STATUS ===
+  
+  
+  AntivirusEnabled          : True
+  RealTimeProtectionEnabled : True
+  AMRunningMode             : Normal
+  
+  
+  
+  
+  === FIREWALL PROFILES ===
+  
+  
+  Name    : Domain
+  Enabled : True
+  
+  Name    : Private
+  Enabled : True
+  
+  Name    : Public
+  Enabled : True
+  
+  
+  
+  
+  === LOCAL ADMINISTRATORS ===
+  
+  
+  Name            : DESKTOP-INHPK9G\Administrator
+  PrincipalSource : Local
+  
+  Name            : O365\[REDACTED]
+  PrincipalSource : AzureAD
+  
+  Name            : S-1-12-1-1077392928-1163393540-1150592132-596031056
+  PrincipalSource : AzureAD
+  
+  Name            : S-1-12-1-297519891-1098661704-2997053593-2755974469
+  PrincipalSource : AzureAD
+  
+  
+  
+  
+  === BITLOCKER STATUS ===
+  BitLocker Drive Encryption: Configuration Tool version 10.0.26100
+  Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+  
+  Volume C: []
+  [OS Volume]
+  
+      Size:                 62.95 GB
+      BitLocker Version:    2.0
+      Conversion Status:    Used Space Only Encrypted
+      Percentage Encrypted: 100.0%
+      Encryption Method:    XTS-AES 128
+      Protection Status:    Protection On
+      Lock Status:          Unlocked
+      Identification Field: Unknown
+      Key Protectors:
+          Numerical Password
+          TPM
+  
+  
+  === DISK SPACE ===
+  
+  
+  Used : 40803405824
+  Free : 26789896192
+  
+  
+  
+  
+  === RECENT CRITICAL EVENTS (last 7 days) ===
+  
+  TimeCreated            LevelDisplayName ProviderName                                             
+  -----------            ---------------- ------------                                             
+  11/22/2026 12:35:51 AM Error            Service Control Manager                                  
+  11/22/2026 12:31:57 AM Error            Microsoft-Windows-Windows Firewall With Advanced Security
+  11/22/2026 12:31:54 AM Error            Microsoft-Windows-Windows Firewall With Advanced Security
+  11/22/2026 12:30:48 AM Error            Microsoft-Windows-BitLocker-Driver                       
+  11/22/2026 12:30:48 AM Error            Microsoft-Windows-BitLocker-Driver                       
+  
+  
+  ------------------------------------------------------------
+
+[HEALTH-REPORT-OUTPUT.TXT]
+  health-report-output.txt : FOUND (4358 bytes)
+
+[TICKET-EVIDENCE FOLDER]
+  ticket-evidence/ : FOUND (3 file(s))
+    cloud
+    local
+    security
+
+[REQUIRED FILES]
+  health-report.ps1 : FOUND (1261 bytes)
+  health-report-output.txt : FOUND (4358 bytes)
+  ai-validation.md : FOUND (1074 bytes)
+  portfolio-defense-notes.md : FOUND (4030 bytes)
+  README.md : FOUND (2953 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week16-audit-package/.
